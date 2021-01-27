@@ -2,7 +2,7 @@
   <img src="/banner.png" >
 </p>
 
-Artigo Missão Kayapó
+## **Missão Kayapó**
 
 Foram analisados os resultados de testes qualitativos para detecção dos anticorpos humanos IgG e IgM produzidos quando há infecção por SARS-CoV-2 em amostras de sangue total, soro ou plasma, utilizando a metodologia de imunocromatografia no sistema de testes laboratoriais remoto (TLR), indicando se houve contato com o agente etiológico.
 
