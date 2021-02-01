@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/banner.png" >
-</p>
-
 ## **Missão Kayapó**
 
 <p align="center">
