@@ -14,7 +14,9 @@ Trata-se de um estudo descritivo, exploratório, com abordagem quantitativa. Par
 (TLRs). Esses resultados foram obtidos dos testes realizados por uma empresa de tecnologia, localizada em Curitiba-PR, no período de 17 novembro a 24 de novembro de 2020 nas
 comunidades Kayapó em Ourilândia do Norte-PA e os dados analisados estatisticamente com ferramentas de bioinformática. 
 
-​RESULTADOS​: A pesquisa evidenciou que o percentual de anticorpos reagentes (73,95%) encontrados nas comunidades pode nos levar a considerar que a introdução do vírus nestas populações pode ser recente, muitas vezes transmitido pelo contato com garimpeiros e madeireiros que assolam a região e cada vez mais se introduzem na Amazônia. ​CONSLUSÃO​: As análises epidemiológicas nos povos Kayapós do Pará, demonstram a capacidade do vírus de se espalhar em meio a regiões relativamente isoladas e terras indígenas, fato que oferece grande risco principalmente para as populações mais idosas e vulneráveis dessas comunidades
+​RESULTADOS​: A pesquisa evidenciou que o percentual de anticorpos reagentes (73,95%) encontrados nas comunidades pode nos levar a considerar que a introdução do vírus nestas populações pode ser recente, muitas vezes transmitido pelo contato com garimpeiros e madeireiros que assolam a região e cada vez mais se introduzem na Amazônia.
+
+​CONSLUSÃO​: As análises epidemiológicas nos povos Kayapós do Pará, demonstram a capacidade do vírus de se espalhar em meio a regiões relativamente isoladas e terras indígenas, fato que oferece grande risco principalmente para as populações mais idosas e vulneráveis dessas comunidades
 
 **Publicação:** 
 
